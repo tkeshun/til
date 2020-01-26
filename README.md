@@ -1,2 +1,3 @@
 # til
-Today I learned
+###Today I learned  
+学習したことを記録する。
